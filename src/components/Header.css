@@ -1,0 +1,8 @@
+.appbar {
+  background-color: #1F1F1F;
+  margin: 0 auto;
+  max-width: 1000px;
+  min-width: 100%;
+  padding: 10px;
+  text-align: center;
+}
